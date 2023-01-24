@@ -1,1 +1,2 @@
-# ms2
+Simple Maven Project
+
